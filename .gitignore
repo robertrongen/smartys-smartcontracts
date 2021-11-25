@@ -1,3 +1,21 @@
+# Dependency directory
+node_modules
+node-red
+codility
+
+# local env variables
+.env
+.secret
+.infura
+settings.json
+start-ganache.sh
+truffle-config.js
+
+# truffle
+contracts/.placeholder
+test/.placeholder
+build
+
 # Logs
 logs
 *.log
