@@ -4,6 +4,7 @@ Smartys application runs on [smartys.2bsmart.eu](https://smartys.2bsmart.eu).
 More info on Smartys: [www.2bsmart.eu/smartys](https://www.2bsmart.eu/smartys)
 ## Installation
 * run `npm install` to install web3, openzeppelin and truffle libraries
+
 In order to use the truffle-config.js file:
 * create .infura file containint infura project ID for using Infura Web3 api
 * create .secret file containing mnemonics for creating a specific token owner account 
@@ -16,10 +17,12 @@ Deployed contracts on Rinkeby testnet used by [Smartys](https://smartys.2bsmart.
 * [Transport contract](https://rinkeby.etherscan.io/address/0x19BEf719F472CbA8b4eAA829682A89Fd6d794089#code) 
 ## Design
 ### High level process design
-* ![High level process design](https://github.com/robertrongen/smartys-smartcontracts/blob/main/images/smartys_high_level.png)
-* ### Detailed process design
-* ![Detailed design](https://github.com/robertrongen/smartys-smartcontracts/blob/main/images/smartys_v2_detailed.png)
-* ### ERC777token transfer
-* ![ERC777token transfer](https://github.com/robertrongen/smartys-smartcontracts/blob/main/images/erc777_token_transfer.png)
-* ### Smartys Roadmap
-* ![Roadmap](https://github.com/robertrongen/smartys-smartcontracts/blob/main/images/smartys_roadmap_2022.png)
+![High level process design](https://github.com/robertrongen/smartys-smartcontracts/blob/main/images/smartys_high_level.png)
+### Detailed process design
+![Detailed design](https://github.com/robertrongen/smartys-smartcontracts/blob/main/images/smartys_v2_detailed.png)
+### ERC777token transfer
+![ERC777token transfer](https://github.com/robertrongen/smartys-smartcontracts/blob/main/images/erc777_token_transfer.png)
+### Smartys application functions
+![Smartys application functions](https://github.com/robertrongen/smartys-smartcontracts/blob/main/images/application_functions_smartys_v2.jpg)
+### Smartys Roadmap
+![Roadmap](https://github.com/robertrongen/smartys-smartcontracts/blob/main/images/smartys_roadmap_2022.png)
