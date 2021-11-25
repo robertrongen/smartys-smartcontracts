@@ -1,5 +1,12 @@
 # smartys-smartcontracts
-## Use 
+Note: This repo is for demonstrating the Smartys smart contracts and has not been tested yet for any other purpose yet.
+## Installation
+* run `npm install` to install web3, openzeppelin and truffle libraries
+In order to use the truffle-config.js file:
+* create .infura file containint infura project ID for using Infura Web3 api
+* create .secret file containing mnemonics for creating a specific token owner account 
+* create .etherscan file etherscan key 
+## Use in Smartys
 Deployed contracts on Rinkeby testnet used by [Smartys](https://smartys.2bsmart.eu/):
 * [Smartys token](https://rinkeby.etherscan.io/token/0xe0d15a857b78e4472876476bef9da392ec5bce23?a=0xa2da9f1522f346cef858d23c2be740568313435e#code)
 * [Order contract](https://rinkeby.etherscan.io/address/0xe513670d42f6b1CBa88D2c28Fd0a9ff4C3397055#code)
