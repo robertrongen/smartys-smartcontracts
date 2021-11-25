@@ -4,6 +4,7 @@ Smartys application runs on [smartys.2bsmart.eu](https://smartys.2bsmart.eu).
 More info on Smartys: [www.2bsmart.eu/smartys](https://www.2bsmart.eu/smartys)
 ## Installation
 * run `npm install` to install web3, openzeppelin and truffle libraries
+
 In order to use the truffle-config.js file:
 * create .infura file containint infura project ID for using Infura Web3 api
 * create .secret file containing mnemonics for creating a specific token owner account 
