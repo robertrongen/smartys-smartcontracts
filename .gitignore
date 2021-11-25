@@ -7,9 +7,9 @@ codility
 .env
 .secret
 .infura
+.etherscan
 settings.json
 start-ganache.sh
-truffle-config.js
 
 # truffle
 contracts/.placeholder
