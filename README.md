@@ -1,4 +1,4 @@
-# Smartys smartcontracts
+# Smartys smart contracts
 Note: This repo is for demonstrating the Smartys smart contracts and has not been tested yet for any other purpose yet. 
 Smartys application runs on [smartys.2bsmart.eu](https://smartys.2bsmart.eu).
 More info on Smartys: [www.2bsmart.eu/smartys](https://www.2bsmart.eu/smartys)
